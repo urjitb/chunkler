@@ -1,1 +1,4 @@
-<p>Slices accounts into chunks using specific amount of Ips (Proxies) and saves it in the chunks folder</p>
+<p>Accounts go in accounts.txt</p>
+<p>Proxies go in ips.txt</p>
+
+To change proxies per account count edit accountsPerIp in index.js
